@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio website",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatNatalyGirl/wordpress-portfolio.git"
+  },
+  "author": "Nataly",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ThatNatalyGirl/wordpress-portfolio/issues"
+  },
+  "homepage": "https://github.com/ThatNatalyGirl/wordpress-portfolio#readme"
+}
