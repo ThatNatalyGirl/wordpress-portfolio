@@ -71,4 +71,4 @@ return $count;
 <?php require get_template_directory() . '/functions/taxonomies.php';?>
 
 <?php add_filter('show_admin_bar', '__return_false');?> 
-<!-- // makes your adminbar go away -->
+<!-- // makes your adminbar go away you can do return true to see the bar -->
