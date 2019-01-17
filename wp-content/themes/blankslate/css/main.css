@@ -1,2 +1,8 @@
 body {
-  background: aquamarine; }
+  background: #fff;
+}
+
+#container {
+  background: url(../images/bg.png);
+  height: 85vh;
+}

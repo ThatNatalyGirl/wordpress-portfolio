@@ -7,4 +7,4 @@
 
 <?php echo get_template_part('includes/content', 'intro')?>
 
-<?php get_footer()?>
+<?php //get_footer()?>

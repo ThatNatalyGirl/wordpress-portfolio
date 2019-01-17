@@ -4,7 +4,7 @@
     <div class="container">
         <div class="hero-container">
             <!-- make a hero custom field -->
-            <img src="<?php echo get_template_directory_uri()?>/images/tree.jpg" alt="hero-image">
+            <!-- <img src="<?php //echo get_template_directory_uri()?>/images/tree.jpg" alt="hero-image"> -->
 
         </div>
         <p>
