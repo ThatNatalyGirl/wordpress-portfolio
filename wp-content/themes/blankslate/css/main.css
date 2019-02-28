@@ -1,8 +1,61 @@
 body {
   background: #fff;
+  font-family: 'Architects Daughter', cursive;
+  margin: 3%;
 }
 
-#container {
-  background: url(../images/bg.png);
-  height: 85vh;
+a{
+  text-decoration: none;
+  color: #000;
+  transition: .75s;
 }
+
+header{
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 5%;
+}
+
+#site-title{
+  width: 100%;
+}
+
+#site-title h1{
+  padding-top: 5%;
+}
+
+#site-title a{
+  color: transparent;
+  background: url(../images/logo2.png) no-repeat center;
+  background-size: 100%;
+  /* padding: 20vh 5vh; */
+  padding: 5% 3%;
+}
+
+li a {
+  padding: 10%;
+  border-radius: 10px;
+}
+
+li a:hover{
+  background-color: #89d7d4;
+}
+
+#wrapper {
+  height: 100vh;
+  width: 100%;
+  background: #fff;
+}
+
+#menu ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 20%;
+}
+
+#menu ul li {
+  transition: .5s;
+}
+
+
